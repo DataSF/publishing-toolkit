@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Publishing Process Overview](0_publishing_process_overview.md)
 * [Submission and Intake](1_submission.md)
 * [Inventory Update](2_inventory.md)
 * [Manual Publishing](3_manual_publishing.md)
@@ -8,5 +9,4 @@
 * [ETL Development](5_etl_development.md)
 * [Release Toolkit Review](6_release_toolkit_review.md)
 * [Review and Approval](7_review_and_approval.md)
-* [Publishing Process Overview](0_publishing_process_overview.md)
 
