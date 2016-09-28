@@ -1,3 +1,8 @@
-# My Awesome Book
+# Publishing Toolkit
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The publishing toolkit describes how DataSF supports open data publishing. The processes herein are the outcome of continuous improvements that reflect the City's context. That context includes:
+
+1. **A highly federated IT environment.**
+2. **Challenging procurement cycles.**
+3. **An orientation toward scale.**
+4. **A
