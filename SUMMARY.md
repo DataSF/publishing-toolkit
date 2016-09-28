@@ -6,4 +6,5 @@
 * [Manual Publishing](3_manual_publishing.md)
 * [ETL Specification](4_etl_specification.md)
 * [ETL Development](5_etl_development.md)
+* Release Toolkit Review
 
