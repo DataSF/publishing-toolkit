@@ -5,5 +5,5 @@
 * [Inventory Update](2_inventory.md)
 * [Manual Publishing](3_manual_publishing.md)
 * [ETL Specification](4_etl_specification.md)
-* ETL Development
+* [ETL Development](5_etl_development.md)
 
