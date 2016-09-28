@@ -8,5 +8,5 @@
 * [ETL Development](5_etl_development.md)
 * [Release Toolkit Review](6_release_toolkit_review.md)
 * [Review and Approval](7_review_and_approval.md)
-* Publishing Process Overview
+* [Publishing Process Overview](0_publishing_process_overview.md)
 
