@@ -2,7 +2,7 @@
 
 ## Introduction
 
-DataSF seeks to empower use of the City's data. Making open data available is not the singular way we do this, but it is one way we drive toward that mission. Over time, we seek to increase the accessibility, discoverability, and understanding of City data.
+DataSF seeks to empower use of the City's data. Making open data available is not the only way we do this, but it is one way we drive toward that mission. Over time, we seek to increase the accessibility, discoverability, and understanding of City data.
 
 We've designed the publishing process to balance our vision with operational realities. Specifically, there are hundreds of data systems across more than 50 departments.
 
