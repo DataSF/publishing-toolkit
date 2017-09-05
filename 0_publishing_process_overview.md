@@ -15,7 +15,11 @@ We've designed our processes and toolkit to:
 3. Leverage automation and work flow tools where possible
 4. Maintain DataSF team transparency and collaboration on the process
 
-## Processes
+## Process Flow
+
+
+
+### Processes
 
 The publishing process is a set of sub-processes linked together through decision points. The sub processes are:
 
@@ -31,11 +35,7 @@ The publishing process is a set of sub-processes linked together through decisio
 
 **Release Toolkit Review.** For protected or sensitive data
 
-### Process Flow
-
-
-
-
+### 
 
 
 
