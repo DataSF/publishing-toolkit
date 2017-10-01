@@ -35,11 +35,9 @@ The publishing process is a set of sub-processes linked together through decisio
 
 **Review and Approval. **The appropriate points of contact for the dataset review and approve before publishing. This includes at least the Data Steward and may also include the Data Custodian and Data Coordinator.
 
+### Process Flow Diagram
+
 Here's how these sub-processes relate:
-
-
-
-
 
 ### 
 
