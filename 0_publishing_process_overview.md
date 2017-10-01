@@ -17,8 +17,6 @@ We've designed our processes and toolkit to:
 
 ## Process Flow
 
-
-
 ### Processes
 
 The publishing process is a set of sub-processes linked together through decision points. The sub processes are:
@@ -27,7 +25,7 @@ The publishing process is a set of sub-processes linked together through decisio
 
 **Inventory Update.** Some reconciliation between the dataset inventory and the submission has to happen. This includes updating fields in the inventory or adding a record to the inventory if that dataset is absent.
 
-**Manual Publishing.** If the dataset is more appropriate to load manually, DataSF staff provide documentation and training as needed so that the data publisher can manually load and update data as needed.
+**Manual Publishing.** If the dataset is more appropriate to load manually, DataSF staff provide documentation and training as needed so that the data publisher can manually load and update data.
 
 **ETL Specification.** If the dataset is appropriate for automation, DataSF staff work with the data publisher to establish the best method for extraction and the desired output. This could include transformations and other automation services.
 
