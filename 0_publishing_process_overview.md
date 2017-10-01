@@ -33,9 +33,13 @@ The publishing process is a set of sub-processes linked together through decisio
 
 **Release Toolkit Review.** For protected or sensitive data
 
-Review and Approval. The appropriate points of contact for the dataset review and approve before publishing. This includes at least the Data Steward and may also include the Data Custodian and Data Coordinator.
+**Review and Approval. **The appropriate points of contact for the dataset review and approve before publishing. This includes at least the Data Steward and may also include the Data Custodian and Data Coordinator.
 
-Here's how they relate:
+Here's how these sub-processes relate:
+
+
+
+
 
 ### 
 
