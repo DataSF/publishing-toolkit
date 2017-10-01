@@ -37,7 +37,7 @@ The publishing process is a set of sub-processes linked together through decisio
 
 ### Process Flow Diagram
 
-Here's how these sub-processes relate:
+Here's how the sub-processes relate:
 
 ### 
 
