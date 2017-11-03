@@ -9,7 +9,7 @@ An open data platform that provides:
 3. Application Programming Interfaces (APIs) [for every hosted dataset](https://dev.socrata.com/docs/endpoints.html)
 4. Visualization tools and external tool integrations (through APIs)
 
-[Learn more about Zapier](https://www.zapier.com/).
+[Learn more about Socrata Publica](https://socrata.com/publica-open-data/).
 
 ## How does it support our process?
 
