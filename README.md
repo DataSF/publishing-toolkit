@@ -1,15 +1,20 @@
-# Publishing Toolkit
+# DataSF Open Data Publishing Toolkit
 
-The publishing toolkit describes how DataSF supports open data publishing. The processes herein are the outcome of continuous improvements that reflect the City's context. That context includes:
+The publishing toolkit describes how DataSF supports open data publishing. The processes herein are the outcome of continuous improvements that reflect our environemnt.
 
-1. **A highly federated IT environment.** Federated IT means a range of systems sitting in different physical and virtual locations. Processes have been designed to establish patterns and create consistency where possible. They are flexible enough to adapt to a variety of configurations.
-2. **An orientation toward scale and institutional support.** 
+Processes have been designed to establish patterns and create consistency where possible within a highly federated IT structure. They are flexible enough to adapt to a variety of configurations.
 
-Values embodied in the publishing processes?
+They also reflect a handful of principles. We seek to:
 
-* User orientation
-* Process optimization
-* Continuous feedback and improvement
+1. Leverage lightly coupled systems rather than monolithic solutions.
+2. Design processes and systems that meet people where they are.
+3. Reduce duplication of effort.
+4. Orient toward scaling where feasible.
+5. Continuosly evaluate and improve.
 
-\[A little more here summarized from the chapters below\]
+This guide steps through our entire publishing process from intake to public dataset. Much of this is invisible to the publisher, except for the touchpoints where we're gathering information we need to support them.
+
+We also include a [reference of the technology](/technology/README.md) we use to support these processes.
+
+This document will change as we do.
 
