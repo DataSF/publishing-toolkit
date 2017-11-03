@@ -12,7 +12,7 @@ They also reflect a handful of principles. We seek to:
 4. Orient toward scaling where feasible.
 5. Continuosly evaluate and improve.
 
-This guide steps through our entire publishing process from intake to public dataset. Much of this is invisible to the publisher, except for the touchpoints where we're gathering information we need to support them.
+This guide steps through our entire publishing process from intake to publishing a dataset. Much of this is invisible to the publisher, except for the touchpoints where we're gathering information we need to support them.
 
 We also include a [reference of the technology](/technology/README.md) we use to support these processes.
 
