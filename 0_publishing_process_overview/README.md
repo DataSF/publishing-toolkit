@@ -39,7 +39,7 @@ The publishing process is a set of sub-processes linked together through decisio
 
 ### Working the process
 
-We track these processes using a [Trello(/technology/trello.md)] board. It is composed of:
+We track these processes using a [Trello](/technology/trello.md) board. It is composed of:
 
 * lists for each sub-process,
 * cards for each dataset moving toward publishing, 
