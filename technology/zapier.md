@@ -12,9 +12,9 @@ While many of these integrations can be scripted, Zapier saves you the time of h
 
 Zapier is used to connect our various systems. We use it to automatically:
 
-1. Automatically create help desk cases and [Trello](/technology/trello.md) cards at intake
+1. Create help desk cases and [Trello](/technology/trello.md) cards at intake
 2. Log activity from the Trello Board in a [Google Sheet](/technology/sheets.md)
-2. Log activity from [Desk.com](/technology/desk.md) in a [Google Sheet](/technology/sheets.md)
+3. Log activity from [Desk.com](/technology/desk.md) in a [Google Sheet](/technology/sheets.md)
 
 Pictured below is an example action set up in Zapier that writes a new Trello card. It's triggered on submission of the Screendoor form.
 
@@ -31,3 +31,6 @@ Zapier logs activity at each step in the process.
 * [ETL Specification](5_etl_specification/README.md)
 * [ETL Development](6_etl_development/README.md)
 * [Review and Approval](7_review_and_approval/README.md)
+
+
+
