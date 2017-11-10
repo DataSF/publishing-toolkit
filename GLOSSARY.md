@@ -29,7 +29,7 @@ ETL stands for Extract-Transform-Load, which is a process for moving data from i
 
 ## Inventory ID
 
-A unique ID is assigned to every record in the City's dataset and systems inventory. This ID is used to:
+A unique ID is assigned to every record in the City's dataset and systems inventory. Composed of 3 letter department code plus 4 digits. This ID is used to:
 
 * assure departments and DataSF staff are referring to the same thing
 * tie records together across systems and processes
