@@ -10,7 +10,7 @@ They also reflect a handful of principles. We seek to:
 2. Design processes and systems that meet people where they are.
 3. Reduce duplication of effort.
 4. Orient toward scaling where feasible.
-5. Continuosly evaluate and improve.
+5. Continuously evaluate and improve.
 
 This guide steps through our entire publishing process from intake to publishing a dataset. Much of this is invisible to the publisher, except for the touchpoints where we're gathering information we need to support them.
 
