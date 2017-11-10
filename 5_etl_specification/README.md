@@ -173,7 +173,7 @@ Below are several patterns that are common within the City. We maintain operatio
 
 #### Other
 
-Rarely used, but if there's a special case, we'll capture it here. If we see enough of a certain pattern, we may create new options. For example, Sharepoint sites are becoming sources of data and we've developed ways to connect to those that are replicable.
+Rarely used, but if there's a special case, we'll capture it here. If we see enough of a certain pattern, we may create new options. For example, Sharepoint sites are becoming sources of data and we've developed replicable ways to connect to those that are.
 
 ### Scheduling
 
@@ -194,11 +194,11 @@ We allow publishers to submit fields and definitions during intake.
 * If we don't have those by now, we collect them during the automation spec. 
 * If we do have them, we just review them with the publisher to make sure nothing has changed.
 
-We have a [standard template for collecting this information](https://datasf.org/assets/files/FieldDefinitionTemplate.xlsx).
+We have a [standard template for collecting this information](https://datasf.org/assets/files/FieldDefinitionTemplate.xlsx) (xls).
 
-### Transformations
+### Transformations and Data Enrichment
 
-There are a number of transformations that can be applied in the process of publishing.
+There are a number of transformations or data enrichment options that can be applied in the process of publishing.
 
 We provide examples on our [automation services guidance](https://datasf.org/publishing/services#toc5) for publishers and in the automation spec itself.
 
@@ -207,7 +207,7 @@ These include, but are not limited to:
 * Convert the input field from a string to a timestamp
 * Convert the input field from a string to a boolean (Y=true; N=false)
 * Generate a coordinate from address field(s)
-* Generate a supervisor district number based on which district boundary an address falls within
+* Generate a supervisor district number based on which district boundary (or other boundaries) an address falls within
 * Match a code to a predefined list of lookup definitions
 
 We ask publishers to specify the outcome of the transformation and DataSF staff will assess feasability and approach.
