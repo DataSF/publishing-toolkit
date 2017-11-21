@@ -1,6 +1,6 @@
 # DataSF Open Data Publishing Toolkit
 
-The publishing toolkit describes how DataSF supports open data publishing. The processes herein are the outcome of continuous improvements that reflect our environemnt.
+The publishing toolkit describes how DataSF supports open data publishing. The processes herein are the outcome of continuous improvements that reflect our environment.
 
 Processes have been designed to establish patterns and create consistency where possible within a highly federated IT structure. They are flexible enough to adapt to a variety of configurations.
 
