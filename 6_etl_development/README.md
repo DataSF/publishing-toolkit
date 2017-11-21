@@ -50,7 +50,7 @@ Here we'll do checks to make sure that data is outputting according to our expec
 1. Number of rows matches what we can see in the source system
 2. Fields match the schema and valid ranges based on documentation and professional judgement
 
-During the course of testing, we may identify specific things we want the steward and other reviewers to check. We'll pass those along to them as part of r[eview and approval](/7_review_and_approval/README.md).
+During the course of testing, we may identify specific things we want the steward and other reviewers to check. We'll pass those along to them as part of [review and approval](/7_review_and_approval/README.md).
 
 ## Review and approval
 
