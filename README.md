@@ -18,3 +18,7 @@ We also include a [reference of the technology](/technology/README.md) we use to
 
 This document will change as we do.
 
+## License
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)
+
