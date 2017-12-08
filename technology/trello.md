@@ -1,6 +1,6 @@
 # Trello
 
-![](/assets/trello_screen.png)
+![Screenshot of Trello board showing how our publishing phases are mapped onto a kanban board](/assets/trello_screen.png)
 
 ## What is it
 

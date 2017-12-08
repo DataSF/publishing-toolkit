@@ -1,5 +1,8 @@
 # Power BI
 
+![Screenshot of our PowerBI report used to monitor the publishing process](/assets/powerbi_screen.png)
+PowerBI let's us quickly see where we are in the publishing process and helps us identify opportunities for process improvements.
+
 ## What is it
 
 A business intelligence platform from Microsoft. Connects to a variety of sources and provides tools for quickly generating dashboards, visuals and reports.
@@ -21,8 +24,8 @@ We continue to iterate on the report and related dashboards, but it helps us ans
 The data that feeds the dashboard includes:
 
 1. [Trello](/technology/trello.md) data \(captured in a google sheet\)
-2. [The dataset inventory]()
-3. [The published data catalog]()
+2. [The dataset inventory](https://data.sfgov.org/City-Management-and-Ethics/Dataset-inventory/y8fp-fbf5)
+3. [The published data catalog](https://data.sfgov.org/City-Management-and-Ethics/Published-data-and-views/g9d8-sczp)
 4. [Desk](/technology/desk.md) case logs
 
 Data is joined together through the inventory IDs, publishing IDs and Trello card IDs.

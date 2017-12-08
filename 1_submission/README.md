@@ -44,8 +44,8 @@ Generally if any of the following are true, we will put it through our automatio
 
 Otherwise, we'll recommend it for manual publishing.
 
-> **Note:** there are sometimes hybrid models where extraction from a source system cannot be automated, but other aspects of publishing can. If we think any portion of the publishing would benefit from automation and the value may outweigh the cost, we'll consider it an automation candidate.
->
+> **Note:** there are sometimes hybrid models where extraction from a source system cannot be automated, but other aspects of publishing can. If we think any portion of the publishing would benefit from automation and the value may outweigh the cost, we'll consider it an automation candidate. 
+> For example, loading a monitoring spreadsheet manually every quarter but processing it with scripts to add a neighborhood based on an address.
 > In all cases we walk through our recommendation with the department. We'll either refine the approach or make a decision that manual publishing makes more sense based on new information.
 
 

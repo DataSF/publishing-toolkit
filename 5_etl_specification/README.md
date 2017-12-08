@@ -62,7 +62,7 @@ Below are several patterns that are common within the City. We maintain operatio
   </tbody>
 </table>
 
-#### Secure FTP Drop
+#### API Connection
 <table>
   <tbody>
     <tr>
@@ -70,7 +70,7 @@ Below are several patterns that are common within the City. We maintain operatio
         <p><strong>What is it</strong></p>
       </td>
       <td colspan="1" rowspan="1">
-        <p>A method for dropping a data extract (csv, tsv, pipe delimited file, shapefile) to a folder on the City’s secure FTP server</p>
+        <p>A method for connecting to any application programming interface (API) offered by a system vendor to extract data</p>
       </td>
     </tr>
     <tr>
@@ -79,9 +79,7 @@ Below are several patterns that are common within the City. We maintain operatio
       </td>
       <td colspan="1" rowspan="1">
         <ul>
-          <li>Legacy systems without robust access control</li>
-          <li>Highly constrained data systems</li>
-          <li>Geographic data stored as shapefiles, where feature services or other programmatic access is not possible</li>
+          <li>A data system that has an available Application Programming Interface (API)</li>
         </ul>
       </td>
     </tr>
@@ -91,10 +89,8 @@ Below are several patterns that are common within the City. We maintain operatio
       </td>
       <td colspan="1" rowspan="1">
         <ul>
-          <li>DataSF sets up department folder and user account on the Department of Technology Secure FTP</li>
-          <li>DataSF shares user credentials securely, access will be Read/Write and constrained to a folder. Custodian will have the ability to update the password.</li>
-          <li>Department custodian writes a script to extract appropriate fields from the data system and upload them to SFTP</li>
-          <li>Department custodian schedules that script to run on a schedule based on the needs of the data steward and target publishing frequency</li>
+          <li>If API access requires authentication, data custodian coordinates access to the API with DataSF</li>
+          <li>Data steward or custodian provide documentation about the API methods</li>
         </ul>
       </td>
     </tr>
@@ -136,7 +132,10 @@ Below are several patterns that are common within the City. We maintain operatio
   </tbody>
 </table>
 
-#### API Connection
+#### Secure FTP Drop
+
+> **Note:** Secure FTP drops have more points of failure and can cause more disruption of service than other methods. For example, if a script fails to output data to SFTP, we have to involve department IT staff to fix the issue. In practice, if something goes wrong with the other methods, we can often resume service with minimal to zero disruption of department staff. This method should be used only in the case where all other methods are impractical or technically infeasible.
+
 <table>
   <tbody>
     <tr>
@@ -144,7 +143,7 @@ Below are several patterns that are common within the City. We maintain operatio
         <p><strong>What is it</strong></p>
       </td>
       <td colspan="1" rowspan="1">
-        <p>A method for connecting to any application programming interface (API) offered by a system vendor to extract data</p>
+        <p>A method for dropping a data extract (csv, tsv, pipe delimited file, shapefile) to a folder on the City’s secure FTP server</p>
       </td>
     </tr>
     <tr>
@@ -153,7 +152,9 @@ Below are several patterns that are common within the City. We maintain operatio
       </td>
       <td colspan="1" rowspan="1">
         <ul>
-          <li>A data system that has an available Application Programming Interface (API)</li>
+          <li>Legacy systems without robust access control</li>
+          <li>Highly constrained data systems</li>
+          <li>Geographic data stored as shapefiles, where feature services or other programmatic access is not possible</li>
         </ul>
       </td>
     </tr>
@@ -163,8 +164,10 @@ Below are several patterns that are common within the City. We maintain operatio
       </td>
       <td colspan="1" rowspan="1">
         <ul>
-          <li>If API access requires authentication, data custodian coordinates access to the API with DataSF</li>
-          <li>Data steward or custodian provide documentation about the API methods</li>
+          <li>DataSF sets up department folder and user account on the Department of Technology Secure FTP</li>
+          <li>DataSF shares user credentials securely, access will be Read/Write and constrained to a folder. Custodian will have the ability to update the password.</li>
+          <li>Department custodian writes a script to extract appropriate fields from the data system and upload them to SFTP</li>
+          <li>Department custodian schedules that script to run on a schedule based on the needs of the data steward and target publishing frequency</li>
         </ul>
       </td>
     </tr>
@@ -173,7 +176,7 @@ Below are several patterns that are common within the City. We maintain operatio
 
 #### Other
 
-Rarely used, but if there's a special case, we'll capture it here. If we see enough of a certain pattern, we may create new options. For example, Sharepoint sites are becoming sources of data and we've developed replicable ways to connect to those that are.
+Rarely used, but if there's a special case, we'll capture it here. If we see enough of a certain pattern, we may create new options.
 
 ### Scheduling
 
@@ -194,7 +197,7 @@ We allow publishers to submit fields and definitions during intake.
 * If we don't have those by now, we collect them during the automation spec. 
 * If we do have them, we just review them with the publisher to make sure nothing has changed.
 
-We have a [standard template for collecting this information](https://datasf.org/assets/files/FieldDefinitionTemplate.xlsx) (xls).
+We have a [standard template for collecting this information](https://datasf.org/assets/files/FieldDefinitionTemplate.xlsx) (xlsx).
 
 ### Transformations and Data Enrichment
 
