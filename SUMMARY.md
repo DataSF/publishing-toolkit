@@ -23,6 +23,6 @@
   * [Power BI](/technology/powerbi.md)
   * [Safe FME](/technology/fme.md)
   * [Socrata Publica](/technology/socrata.md)
-* [License](technology/license.md)
+* [License](LICENSE.md)
 * [Glossary](GLOSSARY.md)
 
