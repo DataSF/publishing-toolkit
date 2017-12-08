@@ -1,5 +1,7 @@
 # Summary
 
+## Publishing Process
+
 * [Introduction](README.md)
 * [Publishing Process Overview](0_publishing_process_overview/README.md)
 * [Submission and Intake](1_submission/README.md)
@@ -22,3 +24,4 @@
   * [Safe FME](/technology/fme.md)
   * [Socrata Publica](/technology/socrata.md)
 * [Glossary](GLOSSARY.md)
+
