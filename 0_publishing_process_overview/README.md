@@ -51,7 +51,7 @@ This approach allows us to track our work transparently across our team and to c
 
 ### The importance of unique inventory IDs
 
-One of the principle decisions we made at the beginning of our inventory process was to assign a unique identifier to every record.
+One of the principal decisions we made at the beginning of our inventory process was to assign a unique identifier to every record.
 
 This ID is not tied to a particular vendor so it can float over all of our processes and systems. It consists of a 3 letter department code and a 4 digit number.
 
