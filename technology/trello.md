@@ -34,7 +34,7 @@ How does this work in practice:
    5. Status of the card \(Waiting on, In Progress, Inactive, Complete\)
    6. Created date, last updated date, completed date
 4. This happens until the dataset is published
-5. Data collected automatically powers a [PowerBI dashboard]() to help us monitor and improve the publishing process. The PowerBI dashboard also links back to each card if more specific questions come up when the team reviews the dashboard.
+5. Data collected automatically powers a [PowerBI dashboard](/technology/powerbi.md) to help us monitor and improve the publishing process. The PowerBI dashboard also links back to each card if more specific questions come up when the team reviews the dashboard.
 
 ### Which processes does it support?
 

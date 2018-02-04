@@ -8,7 +8,7 @@ Google's cloud based collaborative spreadsheet application. Part of the Google S
 
 ## How does it support our process?
 
-We log data to a Google Sheet automatically from Trello using Zapier. We also maintain our dataset and systems inventories in Sheets.
+We log data to a Google Sheet automatically from [Trello](/technology/trello.md) using [Zapier](/technology/zapier.md).
 
 The data in Google Sheets feeds [Power BI](/technology/powerbi.md) reports
 

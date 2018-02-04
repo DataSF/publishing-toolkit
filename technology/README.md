@@ -12,6 +12,7 @@ Our stack includes:
 * **Trello.** Kanban board for managing the process queues and team communication about data publishing.
 * **Desk.com.** Help desk for managing communication with departments during the course of publishing.
 * **PowerBI.** The dashboard platform for measuring and monitoring our publishing processes.
+* **Airtable.** Cloud-based data system used to actively manage the inventory, including logging published datasets at end of process.
 * **Google Sheets.** The management system for the collection of system and dataset inventories.
 * **Zapier.** An API automation platform for connecting multiple cloud tools together \(e.g. Screendoor -&gt; Desk.com -&gt; Trello\)
 * **SAFE FME.** ETL Framework used for some of our automation jobs.

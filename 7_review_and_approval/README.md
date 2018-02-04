@@ -18,3 +18,7 @@ If they have any changes, we'll go through a loop to make the adjustments necess
 If everything looks good, we make the dataset public and register the dataset as published in the Department's inventory.
 
 If the job is automated, we'll [do one last bit to schedule it](/6_etl_development/README.md#scheduling).
+
+DataSF staff finally link the published dataset to the inventory by connecting records in Airtable. A script will sync Airtable with the public inventory to reflect the publishing status and link to the dataset in the inventory by the next day. 
+
+![Animation showing how published records are linked in the inventory](/assets/airtable_link.gif)
