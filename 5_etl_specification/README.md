@@ -55,7 +55,7 @@ Below are several patterns that are common within the City. We maintain operatio
           <li>Department data custodian works with DataSF and Department of Technology to open appropriate ports within the City&rsquo;s network</li>
           <li>Department data custodian sets up user and credentials for DataSF extraction, shares those securely with DataSF.</li>
           <li>Department data custodian and data steward work together to develop views that expose only the fields necessary for publishing to the DataSF extraction user</li>
-          <li>The DataSF extraction user should have read only access to the appropriate views or tables</li>
+          <li>The DataSF extraction user <strong>must</strong> have read only access to the appropriate views or tables</li>
         </ul>
       </td>
     </tr>
